@@ -27,7 +27,7 @@ toc:
   - navgroup: 
       id: tutorial
       topics: 
-      - topic-1.md
+      - responsibilities-template.md
       - topic-2.md
       - topic: topic-3.md
         navtitle: A shorter navtitle 

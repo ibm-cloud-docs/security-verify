@@ -1,20 +1,38 @@
+---
+
+copyright:
+  years: 2024
+lastupdated: "2024-05-02"
+
+subcollection: security-verify
+
+keywords: 
+
+---
+
+{{site.data.keyword.attribute-definition-list}}
+
 # Product introduction
+{: #intro}
 
 IBM Security Verify is an Identity as a Service platform that provides access management and identity mangement capabilities to protect workforce and consumer identities. 
 
 The IBM Security Verify offer provided through IBM Cloud offers IBM Cloud customers with the ability to deploy and use an enterprise grade IAM platform. The Lite offering plan of IBM Security Verify allows IBM Cloud customers to protect up to 5 applications, manage 50,000 identities, and use single sign-on, multi factor authentication, and governance and lifecycle management. For expanding your usage of IBM Security Verify to expand the applications supported, increase the identities managed, or add other subscriptions such as risk based authentication, contact your IBM Cloud or IBM Security sales representative.
 
 # Product documentation
+{: #docs}
 
 - IBM Security Verify Documentation: https://www.ibm.com/docs/en/security-verify
 - IBM Security Verify API Documentation: https://docs.verify.ibm.com/verify/page/api-documentation
 - IBM Security Verify Developer Documentation: https://docs.verify.ibm.com/verify/docs/use-cases
 
 # Verify status page
+{: #statuspage}
 
 https://statuspage.ibmcloudsecurity.com/#
 
 # Comparison of IBM Security Verify and AppID
+{: #comparison}
 
 IBM Security Verify and IBM Cloud AppID are both Identity as a Service offerings provided by IBM. 
 
@@ -31,6 +49,7 @@ When comparing IBM Security Verify and IBM Cloud AppID, IBM Security Verify addi
 - Modern and current support for OpenID Connect, OAuth 2.0, and SAML federation along with integrating with on-prem identity registries such as LDAP and Active Directory.
 
 # Additional details (FAQ)
+{: #faq}
 
 IBM Security Verify is a service provided by IBM Security. IBM Security Verify is being made avaialble in a “Lite” manner for IBM Cloud customers, partners, and users. 
 

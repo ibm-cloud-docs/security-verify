@@ -38,16 +38,21 @@ toc:
         label: API Documentation
         href: https://docs.verify.ibm.com/verify/page/api-documentation
       - link:
-        label: Developer Documentation Hub
-        href: https://docs.verify.ibm.com/verify
+        label: Developer Documentation
+        href: https://docs.verify.ibm.com/verify/docs/use-cases
       - link:
         label: IBM Security Verify Documentation
         href: https://www.ibm.com/docs/en/security-verify
+      - link:
+        label: Status Page
+        href: https://statuspage.ibmcloudsecurity.com/# 
   - navgroup:
       id: help
       topics:
       - topicgroup:
           label: FAQs
+          topics:
+          - faq.md
       - topicgroup:
           label: Troubleshooting
           links:

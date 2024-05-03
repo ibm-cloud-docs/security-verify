@@ -13,7 +13,7 @@ keywords:
 {{site.data.keyword.attribute-definition-list}}
 
 # Understanding your responsibilities when using IBM Verify
-{: #your-id}
+{: #responsibilities}
 
 <!-- The title of your H1 should be Understanding your responsibilities with using _service-name_, where _service-name_ is the non-trademarked short version keyref. -->
 

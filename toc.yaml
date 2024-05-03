@@ -8,37 +8,37 @@ toc:
     service-name: security-verify #If your subcollection is not for a service, don't include this property.
     category: category-value
     audience: audience-value
-    href: /docs/subcollection-value
-    console-page: /relative/console/path
+    href: /docs/security-verify
+#    console-page: /relative/console/path
     product-page: https://ibm.com/cloud/security-verify
     path: security-verify
     label: Docs subcollection title
 
 #  List your getting started tutorial (getting-started.md) as the first item in the Get started nav group. See https://test.cloud.ibm.com/docs/writing?topic=writing-navigation-design for more details on the toc design.
-  entries: 
-  - navgroup: 
+  entries:
+  - navgroup:
       id: tutorial
-      topics: 
-      - responsibilities-template.md
+      topics:
+      - topic: responsibilities-template.md
         navtitle: Responsibilities
 
 #  Links to your REST API docs should be included in the Reference navigation group. For details on publishing API docs, see https://test.cloud.ibm.com/docs/api-docs.
 #  Links to your command line reference docs should be included in the Reference navigation group.
   - navgroup:
       id: reference
-      topics: 
+      topics:
       - topicgroup:
           label: API reference
-          links: 
-          - link: 
+          links:
+          - link:
               label: IBM Security Verify API Documentation
               href: https://docs.verify.ibm.com/verify/page/api-documentation
       - topicgroup:
           label: Related links
-          topics: 
-          - link: 
-            label: IBM Security Verify Documentation Hub
-            href: https://docs.verify.ibm.com/verify
-          - link: 
-            label: IBM Security Verify Documentation
-            href: https://www.ibm.com/docs/en/security-verify
+          topics:
+          - link:
+              label: IBM Security Verify Documentation Hub
+              href: https://docs.verify.ibm.com/verify
+          - link:
+              label: IBM Security Verify Documentation
+              href: https://www.ibm.com/docs/en/security-verify

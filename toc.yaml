@@ -19,33 +19,35 @@ toc:
   - navgroup:
       id: learn
       topics:
-      - topic: overview.md
+      - overview.md
+      links:
       - link:
-        label: Getting Started
-        href: https://docs.verify.ibm.com/verify/docs/getting-started
+          label: Getting Started
+          href: https://docs.verify.ibm.com/verify/docs/getting-started
       - link:
-        label: Release Notes
-        href: https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new
-      - topic: responsibilities-template.md
+          label: Release Notes
+          href: https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new
+      topics:
+      - responsibilities-template.md
         # navtitle: Roles and Responsibilities
 
 #  Links to your REST API docs should be included in the Reference navigation group. For details on publishing API docs, see https://test.cloud.ibm.com/docs/api-docs.
 #  Links to your command line reference docs should be included in the Reference navigation group.
   - navgroup:
       id: reference
-      topics:
+      links:
       - link:
-        label: API Documentation
-        href: https://docs.verify.ibm.com/verify/page/api-documentation
+          label: API Documentation
+          href: https://docs.verify.ibm.com/verify/page/api-documentation
       - link:
-        label: Developer Documentation
-        href: https://docs.verify.ibm.com/verify/docs/use-cases
+          label: Developer Documentation
+          href: https://docs.verify.ibm.com/verify/docs/use-cases
       - link:
-        label: IBM Security Verify Documentation
-        href: https://www.ibm.com/docs/en/security-verify
+          label: IBM Security Verify Documentation
+          href: https://www.ibm.com/docs/en/security-verify
       - link:
-        label: Status Page
-        href: https://statuspage.ibmcloudsecurity.com/# 
+          label: Status Page
+          href: https://statuspage.ibmcloudsecurity.com/# 
   - navgroup:
       id: help
       topics:

@@ -12,15 +12,21 @@ toc:
 #    console-page: /relative/console/path
     product-page: https://ibm.com/cloud/security-verify
     path: security-verify
-    label: Docs subcollection title
+    label: IBM Security Verify
 
 #  List your getting started tutorial (getting-started.md) as the first item in the Get started nav group. See https://test.cloud.ibm.com/docs/writing?topic=writing-navigation-design for more details on the toc design.
   entries:
   - navgroup:
-      id: tutorial
+      id: learn
       topics:
+      - link:
+        label: Getting Started
+        href: https://docs.verify.ibm.com/verify/docs/getting-started
+      - link:
+        label: Release Notes
+        href: https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new
       - topic: responsibilities-template.md
-        navtitle: Responsibilities
+        navtitle: Roles and Responsibilities
 
 #  Links to your REST API docs should be included in the Reference navigation group. For details on publishing API docs, see https://test.cloud.ibm.com/docs/api-docs.
 #  Links to your command line reference docs should be included in the Reference navigation group.
@@ -33,12 +39,21 @@ toc:
           - link:
               label: IBM Security Verify API Documentation
               href: https://docs.verify.ibm.com/verify/page/api-documentation
+      - link:
+        label: IBM Security Verify Documentation Hub
+        href: https://docs.verify.ibm.com/verify
+      - link:
+        label: IBM Security Verify Documentation
+        href: https://www.ibm.com/docs/en/security-verify
+              
+   - navgroup:
+      id: help
+      topics:
       - topicgroup:
-          label: Related links
+          label: FAQs
+      - topicgroup:
+          label: Troubleshooting
           topics:
           - link:
-              label: IBM Security Verify Documentation Hub
-              href: https://docs.verify.ibm.com/verify
-          - link:
-              label: IBM Security Verify Documentation
-              href: https://www.ibm.com/docs/en/security-verify
+              label: IBM Security Verify Support
+              href: https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US

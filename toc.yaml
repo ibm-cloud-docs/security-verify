@@ -45,15 +45,14 @@ toc:
       - link:
         label: IBM Security Verify Documentation
         href: https://www.ibm.com/docs/en/security-verify
-              
-   - navgroup:
+  - navgroup:
       id: help
       topics:
       - topicgroup:
           label: FAQs
       - topicgroup:
           label: Troubleshooting
-          topics:
+          links:
           - link:
               label: IBM Security Verify Support
               href: https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US

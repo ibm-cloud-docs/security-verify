@@ -17,18 +17,18 @@ keywords:
 
 {{site.data.keyword.verify_full}} is an Identity as a Service platform that provides access management and identity mangement capabilities to protect workforce and consumer identities. 
 
-The {{site.data.keyword.verify_full}} offer provided through IBM Cloud offers IBM Cloud customers with the ability to deploy and use an enterprise grade IAM platform. The Lite offering plan of {{site.data.keyword.verify_full}} allows IBM Cloud customers to protect up to 5 applications, manage 50,000 identities, and use single sign-on, multi factor authentication, and governance and lifecycle management. For expanding your usage of {{site.data.keyword.verify_full}} to expand the applications supported, increase the identities managed, or add other subscriptions such as risk based authentication, contact your IBM Cloud or IBM Security sales representative.
+The {{site.data.keyword.verify_full_notm}} offer provided through IBM Cloud offers IBM Cloud customers with the ability to deploy and use an enterprise grade IAM platform. The Lite offering plan of {{site.data.keyword.verify_full_notm}} allows IBM Cloud customers to protect up to 5 applications, manage 50,000 identities, and use single sign-on, multi factor authentication, and governance and lifecycle management. For expanding your usage of {{site.data.keyword.verify_full_notm}} to expand the applications supported, increase the identities managed, or add other subscriptions such as risk based authentication, contact your IBM Cloud or IBM Security sales representative.
 
-## Comparison of {{site.data.keyword.verify_full}} and AppID
+## Comparison of {{site.data.keyword.verify_full_notm}} and AppID
 {: #comparison}
 
-{{site.data.keyword.verify_full}} and IBM Cloud AppID are both Identity as a Service offerings provided by IBM. 
+{{site.data.keyword.verify_full_notm}} and IBM Cloud AppID are both Identity as a Service offerings provided by IBM. 
 
 IBM Cloud AppID is mean for developers to get started easily with basic identity capabilities provided as an IBM Cloud service to meet developer needs for securing workloads with regionally available instances. 
 
-{{site.data.keyword.verify_full}} is a comprehensive enterprise gradeIAM solution for CIAM and Workforce Identity Management, available to protect applications on-prem and across hybrid cloud. 
+{{site.data.keyword.verify_full_notm}} is a comprehensive enterprise gradeIAM solution for CIAM and Workforce Identity Management, available to protect applications on-prem and across hybrid cloud. 
 
-When comparing {{site.data.keyword.verify_full}} and IBM Cloud AppID, {{site.data.keyword.verify_full}} additionally provides: 
+When comparing {{site.data.keyword.verify_full_notm}} and IBM Cloud AppID, {{site.data.keyword.verify_full_notm}} additionally provides: 
 
 - Out of the box reporting with 13+ reports for visualizing identity activity. 
 - Passwordless experiences through QRCode and FIDO passkeys. 

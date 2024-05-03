@@ -34,14 +34,11 @@ toc:
   - navgroup:
       id: reference
       topics:
-      - topicgroup:
-          label: API reference
-          links:
-          - link:
-              label: IBM Security Verify API Documentation
-              href: https://docs.verify.ibm.com/verify/page/api-documentation
       - link:
-        label: IBM Security Verify Documentation Hub
+        label: API Documentation
+        href: https://docs.verify.ibm.com/verify/page/api-documentation
+      - link:
+        label: Developer Documentation Hub
         href: https://docs.verify.ibm.com/verify
       - link:
         label: IBM Security Verify Documentation

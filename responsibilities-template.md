@@ -86,7 +86,7 @@ Security and regulation compliance includes tasks such as security controls impl
 
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
-N/A |
+|Encryption| {{site.data.keyword.verify_full_notm}} is responsible for the encryption of data in motion and rest. This is defined in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D.  | N/A |
 |Security| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring the security of data and operations. This can be seen in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D.  | The Client is responsible for managing the account profiles, applications, and other aspects when configuring the service. |
 |Compliance| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring adherence, auditing, and certification of compliances listed in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D.  | The Client is responsible as the Data Controller. |
 {: row-headers}

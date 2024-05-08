@@ -49,16 +49,6 @@ toc:
       - link:
           label: Status Page
           href: https://statuspage.ibmcloudsecurity.com/# 
-  - navgroup:
-      id: help
-      topics:
-      - topicgroup:
-          label: FAQs
-          topics:
-          - faq.md
-      - topicgroup:
-          label: Troubleshooting
-          links:
-          - link:
-              label: IBM Security Verify Support
-              href: https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US
+      - link:
+          label: IBM Security Verify Support
+          href: https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US

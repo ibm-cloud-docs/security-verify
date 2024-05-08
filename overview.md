@@ -44,3 +44,6 @@ When comparing {{site.data.keyword.verify_full_notm}} and IBM Cloud AppID, {{sit
 Although {{site.data.keyword.verify_full_notm}} can be created from IBM Cloud, administering and adding administrator personas will be done using the group membership within {{site.data.keyword.verify_full_notm}} and not IBM Cloud IAM.
 
 To add other administrators or manage users within {{site.data.keyword.verify_full_notm}}, please see this documentation (https://www.ibm.com/docs/en/security-verify?topic=groups-managing).
+
+## Troubleshooting / Support
+See {{site.data.keyword.verify_full_notm}} Support https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2021
-lastupdated: "2021-10-18"
+  years: 2024
+lastupdated: "2024-05-08"
 
 keywords: 
 
@@ -20,7 +20,7 @@ completion-time: 10m # Estimated time to complete the steps in this tutorial. Mi
 <!-- Name your file `getting-started.md` and include it in the Get started nav group in your toc.yaml file. -->
 
 
-# Getting started with _service-name_
+# Getting started with IBM Verify
 {: #getting-started}
 {: toc-content-type="tutorial"} <!-- Always use this value -->
 {: toc-services=""} <!-- Use same value from services metadata above - that is, in most cases, leave empty. -->

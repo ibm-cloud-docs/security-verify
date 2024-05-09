@@ -27,56 +27,56 @@ completion-time: 10m # Estimated time to complete the steps in this tutorial. Mi
 {: toc-completion-time="10m"} <!-- Use same value from completion-time metadata above -->
 
 <!-- The title of your H1 should be Getting started with _service-name_, where _service-name_ is the non-trademarked short version keyref. -->
+In order to take advantage of what Verify has to offer, you need your own instance. 
+In minutes, you can:
+- Add your first applications to single sign-on (SSO)
+- Try out adaptive MFA across applications
+- Connect an existing directory or add new users for authentication
+- Provision user accounts to target systems
+- Create certification campaigns on sensitive applications and much more!
 
-<!-- The goal should be a tutorial of 10 minutes or less. -->
-
-_The short description should be a single, concise paragraph that contains one or two sentences and no more than 50 words. Briefly mention what the user's learning goal is and include the following SEO keywords in the title short description: IBM Cloud, ServiceName, tutorial. If the release phase of your service is experimental or beta, be sure to indicate that in the first occurrence of the service name, for example, Cost and Asset Management (Experimental)._ For example: "In this getting started tutorial, we'll take you through a sample node.js ToDo app that will take you about 10 minutes to deploy."
 {: shortdesc}
 
-## _Provisioning a Tenant_
+## Step 1: Create a service instance
 {: #anchor_value}
 {: step}
 
-1. From the Catalog, search for {{site.data.keyword.verify_full_notm}}.
-2. Select a location.
-3. Configure your resource. Complete the following fields:
+1. In the IBM Cloud Catalog, search and select {{site.data.keyword.verify_full_notm}}. The service configuration screen opens.
+2. Configure your resource. Complete the following fields:
 
 |  Field | Description |
 |----------|-----------------------|
-|Service Name| description |
-|Resource Group| description |
-|Tags| description |
-|Access Management Tag| description |
-|Short hostname| description |
+|Service name| Give your service instance a name, or use the preset name. |
+|Tags| This is optional. Use tags to organize, track usage costs, and even manage access to your resources and service IDs. You can tag related resources and view them throughout your account by filtering by tags from your resource list. See https://cloud.ibm.com/docs/account?topic=account-tag&interface=ui|
+|Access Management Tag| Access management tags are metadata that are added to resources to help organize access control relationships. They create flexible and easy to administer resource groupings. When you use tags to control access to your resources, your team's projects can grow without requiring updates to IAM policies. See https://cloud.ibm.com/docs/account?topic=account-access-tags-tutorial. |
+|Hostname| This will the name assigned to your tenant. It must be a unique DNS hostname. Choose a hostname that represents your organization for easy access.|
 {: row-headers}
 {: caption="Table 3. Responsibilites for identity and access management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
 
-4. Select the check box to Confirm that you read and agree to the Terms / License agreements.	
-5. Click Create
-6. Click open dashboard to launch ISV.
-7. Select the check box to Confirm that you read and agree to the Terms and Conditions and click Continue.	
+4. Select the check box to confirm that you have read and agree to the Terms / License Agreements.	
+5. Click Create. The service account is created and you will receive an email notification about your subscription.
+
+## Step 2: Sign-in to your Service instance
+
+1. Click Open dashboard to launch {{site.data.keyword.verify_full_notm}}.
+2. Sign in with your IBMid account.
+3. For the initial log-in, you are required to enroll a device to secure your account.
+4. Set up IBMid multifactor authentication with your preferred method. Follow the screen instructions.
 
 
-## _Connect a sample application_
+## Step 3: Connect a sample application
 {: #anchor_value}
 {: step}
 See https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application.
 
-## _Connect to an active directory_
+## Step 4: Connect to an active directory
 {: #anchor_value}
 {: step}
 See https://docs.verify.ibm.com/verify/docs/connect-to-active-directory.
 
-## _Use a social provider as an identity source_
+## Step 5: Use a social provider as an identity source
 {: #anchor_value}
 {: step}
 See https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers
 {: tip}
-
-_You can have multiple "tips" per step. Each tip will output with a *Tip:* label and be formatted in a nested, styled box._
-
-## Next steps
-{: #anchor_value}
-
-_What's the single thing the user needs to do next? Think "guided journey." Either provide information that leads the user to production use, for example HA, how to make a service secure, or how to connect to on-premise data. Or you can point the user to another tutorial. Give a choice between two options max._

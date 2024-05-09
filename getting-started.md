@@ -75,4 +75,4 @@ See https://docs.verify.ibm.com/verify/docs/connect-to-active-directory.
 {: #anchor_value}
 {: step}
 See https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers
-{: tip}
+

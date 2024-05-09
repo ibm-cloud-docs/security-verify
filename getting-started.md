@@ -21,7 +21,6 @@ completion-time: 10m # Estimated time to complete the steps in this tutorial. Mi
 
 
 # Getting started with IBM Verify
-{: #getting-started} {: toc-content-type="tutorial"} {: toc-services=""} {: toc-completion-time="10m"} 
 
 <!-- The title of your H1 should be Getting started with _service-name_, where _service-name_ is the non-trademarked short version keyref. -->
 In order to take advantage of what Verify has to offer, you need your own instance. 

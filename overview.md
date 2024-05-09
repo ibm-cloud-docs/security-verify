@@ -42,8 +42,9 @@ When comparing {{site.data.keyword.verify_full_notm}} and IBM Cloud AppID, {{sit
 - {{site.data.keyword.verify_full}} is a service provided by IBM Security. {{site.data.keyword.verify_full_notm}} is being made avaialble in a “Lite” manner for IBM Cloud customers, partners, and users. 
 - Although {{site.data.keyword.verify_full_notm}} can be created from IBM Cloud, administering and adding administrator personas will be done using the group membership within {{site.data.keyword.verify_full_notm}} and not IBM Cloud IAM.
 - To add other administrators or manage users within {{site.data.keyword.verify_full_notm}}, please see this documentation (https://www.ibm.com/docs/en/security-verify?topic=groups-managing).
-- Customer notifications on events happening in the service are addressed by {{site.data.keyword.verify_full}}. If there are incidents or scheduled maintenance events, customers get notified through their subscription to {{site.data.keyword.verify_full}} Status page https://statuspage.ibmcloudsecurity.com/.
+- Customer notifications on events happening in the service are addressed by {{site.data.keyword.verify_full}}. If there are changes, incidents, planned deployments, or scheduled maintenance events, customers get notified through their subscription to {{site.data.keyword.verify_full}} Status page https://statuspage.ibmcloudsecurity.com/.
 - For customer incident events, customers can open a CSP ticket w/ Support and ask for an incident report (aka RCA or CIR).
+- [Signing up for IBM Security Identity Verify notifications](https://www.ibm.com/docs/en/security-verify?topic=overview-signing-up-security-identity-verify-notifications)
 
 ## Troubleshooting / Support
 {: #support}

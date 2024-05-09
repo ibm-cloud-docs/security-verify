@@ -36,14 +36,15 @@ When comparing {{site.data.keyword.verify_full_notm}} and IBM Cloud AppID, {{sit
 - Low code/no code orchestration engine to configure journey time experiences.
 - Modern and current support for OpenID Connect, OAuth 2.0, and SAML federation along with integrating with on-prem identity registries such as LDAP and Active Directory.
 
-## Frequently Asked Questions (FAQ)
-{: #faq}
+## Additional Details
+{: #additional-details}
 
-{{site.data.keyword.verify_full}} is a service provided by IBM Security. {{site.data.keyword.verify_full_notm}} is being made avaialble in a “Lite” manner for IBM Cloud customers, partners, and users. 
-
-Although {{site.data.keyword.verify_full_notm}} can be created from IBM Cloud, administering and adding administrator personas will be done using the group membership within {{site.data.keyword.verify_full_notm}} and not IBM Cloud IAM.
-
-To add other administrators or manage users within {{site.data.keyword.verify_full_notm}}, please see this documentation (https://www.ibm.com/docs/en/security-verify?topic=groups-managing).
+- {{site.data.keyword.verify_full}} is a service provided by IBM Security. {{site.data.keyword.verify_full_notm}} is being made avaialble in a “Lite” manner for IBM Cloud customers, partners, and users. 
+- Although {{site.data.keyword.verify_full_notm}} can be created from IBM Cloud, administering and adding administrator personas will be done using the group membership within {{site.data.keyword.verify_full_notm}} and not IBM Cloud IAM.
+- To add other administrators or manage users within {{site.data.keyword.verify_full_notm}}, please see this documentation (https://www.ibm.com/docs/en/security-verify?topic=groups-managing).
+- Customer notifications on events happening in the service are addressed by {{site.data.keyword.verify_full}}. If there are incidents or scheduled maintenance events, customers get notified through their subscription to {{site.data.keyword.verify_full}} Status page https://statuspage.ibmcloudsecurity.com/.
+- For customer incident events, customers can open a CSP ticket w/ Support and ask for an incident report (aka RCA or CIR).
 
 ## Troubleshooting / Support
+{: #support}
 See {{site.data.keyword.verify_full_notm}} Support https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US

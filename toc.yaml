@@ -30,7 +30,7 @@ toc:
           topics:
           - update-tenant.md
           - delete-tenant.md
- - navgroup:
+  - navgroup:
       id: reference
       topics:
       - responsibilities-template.md

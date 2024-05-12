@@ -42,6 +42,18 @@ toc:
       - link:
           label: Status Page
           href: https://statuspage.ibmcloudsecurity.com/# 
+  - navgroup:
+      id: help
+      links:
       - link:
           label: IBM Security Verify Support
           href: https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US
+      - link:
+          label: Open a Support Case
+          href: https://www.ibm.com/mysupport/s/createrecord/NewCase?productId=01t50000004Y4A8AAK&language=en_US
+      - link:
+          label: Request an Enhancement
+          href: https://ideas.ibm.com/new-idea?product=6431760981739898092                 
+      - link:
+          label: IBM Security Verify Community Forum
+          href: https://community.ibm.com/community/user/security/communities/community-home/digestviewer?communitykey=e7c36119-46d7-42f2-97a9-b44f0cc89c6d&tab=digestviewer

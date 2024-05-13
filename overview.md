@@ -24,7 +24,7 @@ The {{site.data.keyword.verify_full_notm}} offer provided through IBM Cloud offe
 
 {{site.data.keyword.verify_full_notm}} and IBM Cloud AppID are both Identity as a Service offerings provided by IBM. 
 
-IBM Cloud AppID is mean for developers to get started easily with basic identity capabilities provided as an IBM Cloud service to meet developer needs for securing workloads with regionally available instances. 
+IBM Cloud AppID is meant for developers to get started easily with basic identity capabilities provided as an IBM Cloud service to meet developer needs for securing workloads with regionally available instances. 
 
 {{site.data.keyword.verify_full_notm}} is a comprehensive enterprise gradeIAM solution for CIAM and Workforce Identity Management, available to protect applications on-prem and across hybrid cloud. 
 

@@ -35,7 +35,7 @@ Incident and operations management includes tasks such as monitoring, event mana
 
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
-|Monitoring| {{site.data.keyword.verify_full_notm}} is responsible for hosting monitoring and health services.  | The Client is responsible for revising the IBM Security status page https://statuspage.ibmcloudsecurity.com/# to see where they may be affected. |
+|Monitoring| {{site.data.keyword.verify_full_notm}} is responsible for hosting monitoring and health services.  | The Client is responsible for revising the IBM Security status page https://statuspage.ibmcloudsecurity.com/#{: external} to see where they may be affected. |
 |High Availability| {{site.data.keyword.verify_full_notm}} is responsible for deploying the service across availability zones and multi data centers. {{site.data.keyword.verify_short}} provides replication, fail-over features, and infrastructure maintenance or updates. | The Client is responsible for designing application logic to connect to communicating with the service, for example, retry logins, create users, and more that may be caused by temporary failures. |
 {: row-headers}
 {: caption="Table 1. Responsibilites for incident and operations" caption-side="bottom"}
@@ -53,7 +53,7 @@ Change management includes tasks such as deployment, configuration, upgrades, pa
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
 |Scaling| {{site.data.keyword.verify_full_notm}} is responsible for scaling infrastructure to meet client requests.  | The Client is responsible for configuring the application and ensuring the configuration is properly set up. |
-|Feature deployment and installation| {{site.data.keyword.verify_full_notm}} is responsible for deploying new features into the customer environment.  | The Client is responsible for configuring and setting up the newly added features as desired to use. What’s new https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new can be found in the {{site.data.keyword.verify_full_notm}} documentation. |
+|Feature deployment and installation| {{site.data.keyword.verify_full_notm}} is responsible for deploying new features into the customer environment.  | The Client is responsible for configuring and setting up the newly added features as desired to use. What’s new https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new{: external} can be found in the {{site.data.keyword.verify_full_notm}} documentation. |
 {: row-headers}
 {: caption="Table 2. Responsibilites for change management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
@@ -83,9 +83,9 @@ Security and regulation compliance includes tasks such as security controls impl
 
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
-|Encryption| {{site.data.keyword.verify_full_notm}} is responsible for the encryption of data in motion and rest. This is defined in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D.  | N/A |
-|Security| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring the security of data and operations. This can be seen in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D.  | The Client is responsible for managing the account profiles, applications, and other aspects when configuring the service. |
-|Compliance| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring adherence, auditing, and certification of compliances listed in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D.  | The Client is responsible as the Data Controller. |
+|Encryption| {{site.data.keyword.verify_full_notm}} is responsible for the encryption of data in motion and rest. This is defined in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | N/A |
+|Security| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring the security of data and operations. This can be seen in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | The Client is responsible for managing the account profiles, applications, and other aspects when configuring the service. |
+|Compliance| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring adherence, auditing, and certification of compliances listed in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | The Client is responsible as the Data Controller. |
 {: row-headers}
 {: caption="Table 4. Responsibilites for security and regulation compliance" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
@@ -100,7 +100,7 @@ Disaster recovery includes tasks such as providing dependencies on disaster reco
 
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
-|Backups and restore| {{site.data.keyword.verify_full_notm}} is responsible for automatic daily backups, as well as monitoring the state of client backups. This can be seen in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D.  | N/A |
+|Backups and restore| {{site.data.keyword.verify_full_notm}} is responsible for automatic daily backups, as well as monitoring the state of client backups. This can be seen in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | N/A |
 {: row-headers}
 {: caption="Table 5. Responsibilites for disaster recovery" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}

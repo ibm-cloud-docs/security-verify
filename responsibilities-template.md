@@ -12,7 +12,7 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Understanding your responsibilities when using IBM Verify
+# Understanding your responsibilities when using {{site.data.keyword.verify_full_notm}}
 {: #responsibilities}
 
 <!-- The title of your H1 should be Understanding your responsibilities with using _service-name_, where _service-name_ is the non-trademarked short version keyref. -->
@@ -53,7 +53,7 @@ Change management includes tasks such as deployment, configuration, upgrades, pa
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
 |Scaling| {{site.data.keyword.verify_full_notm}} is responsible for scaling infrastructure to meet client requests.  | The Client is responsible for configuring the application and ensuring the configuration is properly set up. |
-|Feature deployment and installation| {{site.data.keyword.verify_full_notm}} is responsible for deploying new features into the customer environment.  | The Client is responsible for configuring and setting up the newly added features as desired to use. What’s new https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new can be found in the Verify documentation. |
+|Feature deployment and installation| {{site.data.keyword.verify_full_notm}} is responsible for deploying new features into the customer environment.  | The Client is responsible for configuring and setting up the newly added features as desired to use. What’s new https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new can be found in the {{site.data.keyword.verify_full_notm}} documentation. |
 {: row-headers}
 {: caption="Table 2. Responsibilites for change management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}

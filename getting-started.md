@@ -21,6 +21,7 @@ completion-time: 10m # Estimated time to complete the steps in this tutorial. Mi
 
 
 # Getting started with {{site.data.keyword.verify_full_notm}}
+{: #get-started}
 
 <!-- The title of your H1 should be Getting started with _service-name_, where _service-name_ is the non-trademarked short version keyref. -->
 In order to take advantage of what {{site.data.keyword.verify_full_notm}} has to offer, you need your own instance. 
@@ -34,7 +35,7 @@ In minutes, you can:
 {: shortdesc}
 
 ## Create a service instance
-{: #anchor_value}
+{: #create}
 {: step}
 
 1. In the IBM Cloud Catalog, search and select {{site.data.keyword.verify_full_notm}}. The service configuration screen opens.
@@ -54,7 +55,7 @@ In minutes, you can:
 5. Click Create. The service account is created and you will receive an email notification about your subscription.
 
 ## Sign-in to your Service instance
-{: #anchor_value}
+{: #sign-in}
 {: step}
 
 1. Click Open dashboard to launch {{site.data.keyword.verify_full_notm}}.
@@ -64,7 +65,7 @@ In minutes, you can:
 
 
 ## Connect a sample application
-{: #anchor_value}
+{: #connect-app}
 {: step}
 1. Create a new application.
 2. Gather information for the service provider (application).
@@ -75,7 +76,7 @@ In minutes, you can:
 For more details, see [Connect a sample application](https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application){: external}.
 
 ## Connect to an active directory
-{: #anchor_value}
+{: #connect-activedirectory}
 {: step}
 1. Gather the information. 
 2. Create an Identity Agent configuration.
@@ -86,7 +87,7 @@ For more details, see [Connect a sample application](https://docs.verify.ibm.com
 For more details, see [Connect to Active Directory](https://docs.verify.ibm.com/verify/docs/connect-to-active-directory){: external}.
 
 ## Use a social provider as an identity source
-{: #anchor_value}
+{: #identity-source}
 {: step}
 1. Configure the social providers.
 2. Enable an application for social sign-on.

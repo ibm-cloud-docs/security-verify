@@ -6,7 +6,7 @@ You can create multiple {{site.data.keyword.verify_full_notm}} instances per IBM
 
 ## Creating a service instance
 Create {{site.data.keyword.verify_full_notm}} instances to use when protecting consumer and workforce identities. 
-See [Getting Started](getting-started.md).
+See [Getting Started](./getting-started.md).
 
 ## Deleting a service instance
 The delete action will trigger {{site.data.keyword.verify_full_notm}} to suspend the instance for 7 days, which allows for recovery of data if the service instance is accidentally deleted. 

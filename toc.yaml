@@ -25,11 +25,7 @@ toc:
   - navgroup:
       id: howto
       topics:
-      - topicgroup:
-          label: Tenant Management
-          topics:
-          - update-tenant.md
-          - delete-tenant.md
+      - tenant-management.md
   - navgroup:
       id: reference
       topics:

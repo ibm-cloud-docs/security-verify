@@ -54,6 +54,8 @@ In minutes, you can:
 5. Click Create. The service account is created and you will receive an email notification about your subscription.
 
 ## Sign-in to your Service instance
+{: #anchor_value}
+{: step}
 
 1. Click Open dashboard to launch {{site.data.keyword.verify_full_notm}}.
 2. Sign in with your IBMid account.

@@ -32,6 +32,7 @@ If you experience an issue or have questions when using {{site.data.keyword.veri
      * [Microsoft Active Directory Adapter Troubleshooting](https://www.ibm.com/docs/en/security-verify?topic=directory-troubleshooting)
      * [Oracle SDI Dispatcher Installation and Configuration Troubleshooting](https://www.ibm.com/docs/en/security-verify?topic=sdic-troubleshooting)
 
+* [Review the informational, warning, and error messages that are associated with {{site.data.keyword.verify_full_notm}}](https://www.ibm.com/docs/en/security-verify?topic=information-error-messages).
 * Check the status of {{site.data.keyword.verify_full_notm}} by going to the [Status page](https://statuspage.ibmcloudsecurity.com/){: external}.
 
 <!-- In this list above, you can also provide a public slack channel for searching for answers or asking questions in a forum, if there is one available. For example, you'd include a bullet like "Ask product experts and the community questions on the [slack-channel-name)[url.com] slack channel."  -->

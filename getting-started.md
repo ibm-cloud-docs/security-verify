@@ -74,10 +74,16 @@ For more details, see https://docs.verify.ibm.com/verify/docs/getting-started-co
 ## Connect to an active directory
 {: #anchor_value}
 {: step}
-See https://docs.verify.ibm.com/verify/docs/connect-to-active-directory.
+1. Gather the information. 
+2. Create an Identity Agent configuration.
+3. Retrieve API Credentials.
+4. Install the IBM Verify Bridge.
+5. Validate the configuration.
+For more details, see https://docs.verify.ibm.com/verify/docs/connect-to-active-directory.
 
 ## Use a social provider as an identity source
 {: #anchor_value}
 {: step}
-See https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers
+
+For more details, see https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers
 

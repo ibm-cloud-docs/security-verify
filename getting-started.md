@@ -64,7 +64,12 @@ In minutes, you can:
 ## Connect a sample application
 {: #anchor_value}
 {: step}
-See https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application.
+1. Create a new application.
+2. Gather information for the service provider (application).
+3. Configure the sample app.
+4. Configure {{site.data.keyword.verify_full_notm}}.
+5. Test your sample application.
+For more details, see https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application.
 
 ## Connect to an active directory
 {: #anchor_value}

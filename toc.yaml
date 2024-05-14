@@ -45,6 +45,8 @@ toc:
           href: https://statuspage.ibmcloudsecurity.com/# 
   - navgroup:
       id: help
+      topics:
+      - get-help.md
       links:
       - link:
           label: IBM Security Verify Support

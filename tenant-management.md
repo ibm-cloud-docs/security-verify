@@ -14,9 +14,8 @@ If an instance is accidentally deleted and needs to be recovered, reach out to I
 The service instance will be deleted and data cannot be recovered after the 7 days window.
 
 1. In the IBM Cloud Catalog Resource list page, search your service instance.
-2. Click the context-menu option and select Delete.
-3. The {{site.data.keyword.verify_full_notm}} instance is removed from the resource list.
-4. {{site.data.keyword.verify_full_notm}} sends an email notification about the delete request.
+2. Click the Actions icon and select Delete. You are prompted to confirm the delete action. Note: Deleting the service removes it from all connected apps and deletes all aliases from spaces that are using it. In addition, all of its data is permanently deleted. 
+3. Click Delete. The {{site.data.keyword.verify_full_notm}} instance is removed from the resource list and {{site.data.keyword.verify_full_notm}} sends an email notification that your service instance account is suspended.
 
 ## Upgrading a service instance
 Upgrading {{site.data.keyword.verify_full_notm}} with additional capabilities beyond what is provided in the “Lite” plan requires engagement with an IBM Security or IBM Cloud representative. 

@@ -25,4 +25,4 @@ Upgrading {{site.data.keyword.verify_full_notm}} with additional capabilities be
 2. Click Open dashboard to launch {{site.data.keyword.verify_full_notm}}.
 3. Sign in with your IBMid account.
 4. In the {{site.data.keyword.verify_full_notm}} Admin page, click Request upgrade or demo.
-5. Complete the form with your contact details. IBM representatives will reach out to you within the next few days.
+5. Complete the IBM Registration form with your contact details. IBM representatives will reach out to you within the next few days.

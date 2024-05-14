@@ -72,7 +72,7 @@ In minutes, you can:
 4. Configure {{site.data.keyword.verify_full_notm}}.
 5. Test your sample application.
 
-For more details, see [Connect a sample application](https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application).
+For more details, see [Connect a sample application](https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application){: external}.
 
 ## Connect to an active directory
 {: #anchor_value}
@@ -83,7 +83,7 @@ For more details, see [Connect a sample application](https://docs.verify.ibm.com
 4. Install the IBM Verify Bridge.
 5. Validate the configuration.
 
-For more details, see [Connect to Active Directory](https://docs.verify.ibm.com/verify/docs/connect-to-active-directory).
+For more details, see [Connect to Active Directory](https://docs.verify.ibm.com/verify/docs/connect-to-active-directory){: external}.
 
 ## Use a social provider as an identity source
 {: #anchor_value}
@@ -91,5 +91,5 @@ For more details, see [Connect to Active Directory](https://docs.verify.ibm.com/
 1. Configure the social providers.
 2. Enable an application for social sign-on.
 
-For more details, see [Using social providers](https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers).
+For more details, see [Using social providers](https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers){: external}.
 

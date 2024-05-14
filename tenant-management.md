@@ -1,3 +1,17 @@
+---
+
+copyright:
+  years: 2024
+lastupdated: "2024-05-14"
+
+subcollection: security-verify
+
+keywords: 
+
+---
+
+{{site.data.keyword.attribute-definition-list}}
+
 # Tenant Management
 
 An {{site.data.keyword.verify_full_notm}} instance is a logically separated environment, where each instance is its own unique environment running in a multi-tenant SaaS operational model. 

@@ -2,17 +2,13 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-05-09"
+lastupdated: "2024-05-14"
+
+subcollection: security-verify
 
 keywords: 
 
-subcollection: _your-subcollection_
-
-content-type: release-note
-
 ---
-
-<!-- keywords values above are place holders. Actual values should be pulled from the release notes entries. -->
 
 {{site.data.keyword.attribute-definition-list}}
 

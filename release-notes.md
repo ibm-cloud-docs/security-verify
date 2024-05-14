@@ -36,6 +36,6 @@ Use these release notes to learn about the latest updates to {{site.data.keyword
 
 Introducing {{site.data.keyword.verify_full_notm}}.
 
-{{site.data.keyword.verify_full_notm}} provides Single Sign-On (SSO), multi-factor authentication (MFA), identity governance, and identity lifecycle controls for internal (workforce) and external (consumer) user types. For more information, see https://www.ibm.com/products/verify-saas
+{{site.data.keyword.verify_full_notm}} provides Single Sign-On (SSO), multi-factor authentication (MFA), identity governance, and identity lifecycle controls for internal (workforce) and external (consumer) user types. For more information, see https://www.ibm.com/products/verify-saas{: external} 
 
-{{site.data.keyword.verify_full_notm}} continuously delivers new capabilities every few weeks. To stay updated on the latest features, you can visit the {{site.data.keyword.verify_full_notm}} [What's new](https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new) documentation. 
+{{site.data.keyword.verify_full_notm}} continuously delivers new capabilities every few weeks. To stay updated on the latest features, you can visit the {{site.data.keyword.verify_full_notm}} [What's new](https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new){: external} documentation. 

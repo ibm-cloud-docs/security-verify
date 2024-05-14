@@ -46,6 +46,4 @@ When comparing {{site.data.keyword.verify_full_notm}} and IBM Cloud AppID, {{sit
 - For customer incident events, customers can open a CSP ticket w/ Support and ask for an incident report (aka RCA or CIR).
 - [Signing up for IBM Security Identity Verify notifications](https://www.ibm.com/docs/en/security-verify?topic=overview-signing-up-security-identity-verify-notifications)
 
-## Troubleshooting / Support
-{: #support}
-See {{site.data.keyword.verify_full_notm}} Support https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US
+

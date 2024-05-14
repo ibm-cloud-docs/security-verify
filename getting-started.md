@@ -33,7 +33,7 @@ In minutes, you can:
 
 {: shortdesc}
 
-## Step 1: Create a service instance
+## Create a service instance
 {: #anchor_value}
 {: step}
 
@@ -53,7 +53,7 @@ In minutes, you can:
 4. Select the check box to confirm that you have read and agree to the Terms / License Agreements.	
 5. Click Create. The service account is created and you will receive an email notification about your subscription.
 
-## Step 2: Sign-in to your Service instance
+## Sign-in to your Service instance
 
 1. Click Open dashboard to launch {{site.data.keyword.verify_full_notm}}.
 2. Sign in with your IBMid account.
@@ -61,17 +61,17 @@ In minutes, you can:
 4. Set up IBMid multifactor authentication with your preferred method. Follow the screen instructions.
 
 
-## Step 3: Connect a sample application
+## Connect a sample application
 {: #anchor_value}
 {: step}
 See https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application.
 
-## Step 4: Connect to an active directory
+## Connect to an active directory
 {: #anchor_value}
 {: step}
 See https://docs.verify.ibm.com/verify/docs/connect-to-active-directory.
 
-## Step 5: Use a social provider as an identity source
+## Use a social provider as an identity source
 {: #anchor_value}
 {: step}
 See https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers

@@ -9,15 +9,14 @@ Create {{site.data.keyword.verify_full_notm}} instances to use when protecting c
 See [Getting Started](getting-started.md).
 
 ## Deleting a service instance
-Delete will suspend the instance for 7 days, which allows for recovery of data if the service instance is accidentally deleted. 
+The delete action will trigger {{site.data.keyword.verify_full_notm}} to suspend the instance for 7 days, which allows for recovery of data if the service instance is accidentally deleted. 
 If an instance is accidentally deleted and needs to be recovered, reach out to IBM Cloud support for assistance before the 7 days window is over.
 The service instance will be deleted and data cannot be recovered after the 7 days window.
 
 1. In the IBM Cloud Catalog Resource list page, search your service instance.
-2. Click the context-menu and select Delete.
-3. The instance should  be removed from  their list of resources 
-4. ISV should get a request to suspend the tenant; isv suspends the tenant and sends an email to the contact (the person that provisioned the instance)
-5. After 7 days, ISV should get a request from IBM Cloud to deprovsion/delete the tenant.  Again, ISV will send an email
+2. Click the context-menu option and select Delete.
+3. The {{site.data.keyword.verify_full_notm}} instance is removed from the resource list.
+4. {{site.data.keyword.verify_full_notm}} sends an email notification about the delete request.
 
 ## Upgrading a service instance
 Upgrading {{site.data.keyword.verify_full_notm}} with additional capabilities beyond what is provided in the “Lite” plan requires engagement with an IBM Security or IBM Cloud representative. 

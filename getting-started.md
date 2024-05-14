@@ -20,10 +20,10 @@ completion-time: 10m # Estimated time to complete the steps in this tutorial. Mi
 <!-- Name your file `getting-started.md` and include it in the Get started nav group in your toc.yaml file. -->
 
 
-# Getting started with IBM Verify
+# Getting started with {{site.data.keyword.verify_full_notm}}
 
 <!-- The title of your H1 should be Getting started with _service-name_, where _service-name_ is the non-trademarked short version keyref. -->
-In order to take advantage of what Verify has to offer, you need your own instance. 
+In order to take advantage of what {{site.data.keyword.verify_full_notm}} has to offer, you need your own instance. 
 In minutes, you can:
 - Add your first applications to single sign-on (SSO)
 - Try out adaptive MFA across applications
@@ -71,7 +71,8 @@ In minutes, you can:
 3. Configure the sample app.
 4. Configure {{site.data.keyword.verify_full_notm}}.
 5. Test your sample application.
-For more details, see https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application.
+
+For more details, see [Connect a sample application](https://docs.verify.ibm.com/verify/docs/getting-started-connect-a-sample-application).
 
 ## Connect to an active directory
 {: #anchor_value}
@@ -81,11 +82,14 @@ For more details, see https://docs.verify.ibm.com/verify/docs/getting-started-co
 3. Retrieve API Credentials.
 4. Install the IBM Verify Bridge.
 5. Validate the configuration.
-For more details, see https://docs.verify.ibm.com/verify/docs/connect-to-active-directory.
+
+For more details, see [Connect to Active Directory](https://docs.verify.ibm.com/verify/docs/connect-to-active-directory).
 
 ## Use a social provider as an identity source
 {: #anchor_value}
 {: step}
+1. Configure the social providers.
+2. Enable an application for social sign-on.
 
-For more details, see https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers
+For more details, see [Using social providers](https://docs.verify.ibm.com/verify/docs/identity-sources-1-connect-social-providers).
 

@@ -37,7 +37,7 @@ Incident and operations management includes tasks such as monitoring, event mana
 |Monitoring| {{site.data.keyword.verify_full_notm}} is responsible for hosting monitoring and health services.  | The Client is responsible for revising the IBM Security status page https://statuspage.ibmcloudsecurity.com/#{: external} to see where they may be affected. |
 |High Availability| {{site.data.keyword.verify_full_notm}} is responsible for deploying the service across availability zones and multi data centers. {{site.data.keyword.verify_short}} provides replication, fail-over features, and infrastructure maintenance or updates. | The Client is responsible for designing application logic to connect to communicating with the service, for example, retry logins, create users, and more that may be caused by temporary failures. |
 {: row-headers}
-{: caption="Table 1. Responsibilites for incident and operations" caption-side="bottom"}
+{: caption="Table 1. Responsibilities for incident and operations" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
 
 
@@ -54,7 +54,7 @@ Change management includes tasks such as deployment, configuration, upgrades, pa
 |Scaling| {{site.data.keyword.verify_full_notm}} is responsible for scaling infrastructure to meet client requests.  | The Client is responsible for configuring the application and ensuring the configuration is properly set up. |
 |Feature deployment and installation| {{site.data.keyword.verify_full_notm}} is responsible for deploying new features into the customer environment.  | The Client is responsible for configuring and setting up the newly added features as desired to use. What’s new https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new{: external} can be found in the {{site.data.keyword.verify_full_notm}} documentation. |
 {: row-headers}
-{: caption="Table 2. Responsibilites for change management" caption-side="bottom"}
+{: caption="Table 2. Responsibilities for change management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
 
 
@@ -69,7 +69,7 @@ Identity and access management includes tasks such as authentication, authorizat
 |Task 2| {{site.data.keyword.verify_full_notm}} responsibility description  | Customer responsibility description |
 |Task 3| {{site.data.keyword.verify_full_notm}} responsibility description  | Customer responsibility description |
 {: row-headers}
-{: caption="Table 3. Responsibilites for identity and access management" caption-side="bottom"}
+{: caption="Table 3. Responsibilities for identity and access management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."} -->
 
 ## Security and regulation compliance

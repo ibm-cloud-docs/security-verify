@@ -12,7 +12,7 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Tenant Management
+# Managing your service instance
 {: #tenant-management}
 
 An {{site.data.keyword.verify_full_notm}} instance is a logically separated environment, where each instance is its own unique environment running in a multi-tenant SaaS operational model. 
@@ -22,7 +22,7 @@ You can create multiple {{site.data.keyword.verify_full_notm}} instances per IBM
 ## Creating a service instance
 {: #create-instance}
 Create {{site.data.keyword.verify_full_notm}} instances to use when protecting consumer and workforce identities. 
-See [Getting Started](./getting-started.md).
+See [Getting Started](/docs/security-verify?topic=security-verify-get-started#create).
 
 ## Deleting a service instance
 {: #delete-instance}

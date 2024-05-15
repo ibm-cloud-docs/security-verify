@@ -51,7 +51,7 @@ Change management includes tasks such as deployment, configuration, upgrades, pa
 
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
-|Scaling| {{site.data.keyword.verify_full_notm}} is responsible for scaling infrastructure to meet client requests.  | The Client is responsible for configuring the application and ensuring the configuration is properly set up. |
+|Scaling| {{site.data.keyword.verify_full_notm}} is responsible for scaling infrastructure to meet client requests.  | The Client is responsible for properly configuring the application. |
 |Feature deployment and installation| {{site.data.keyword.verify_full_notm}} is responsible for deploying new features into the customer environment.  | The Client is responsible for configuring and setting up the newly added features as desired to use. What’s new https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new{: external} can be found in the {{site.data.keyword.verify_full_notm}} documentation. |
 {: row-headers}
 {: caption="Table 2. Responsibilities for change management" caption-side="bottom"}
@@ -83,7 +83,7 @@ Security and regulation compliance includes tasks such as security controls impl
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
 |Encryption| {{site.data.keyword.verify_full_notm}} is responsible for the encryption of data in motion and rest. This is defined in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | N/A |
-|Security| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring the security of data and operations. This can be seen in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | The Client is responsible for managing the account profiles, applications, and other aspects when configuring the service. |
+|Security| {{site.data.keyword.verify_full_notm}}  is responsible for the security of data and operations. This can be seen in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | The Client is responsible for managing the account profiles, applications, and other aspects when configuring the service. |
 |Compliance| {{site.data.keyword.verify_full_notm}}  is responsible for ensuring adherence, auditing, and certification of compliance listed in the {{site.data.keyword.verify_full_notm}} data sheet https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=735E5650E26711E69CCD7F0385C6524D{: external}.  | The Client is responsible as the Data Controller. |
 {: row-headers}
 {: caption="Table 4. Responsibilites for security and regulation compliance" caption-side="bottom"}

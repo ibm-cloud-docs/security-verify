@@ -21,6 +21,7 @@ toc:
       topics:
       - getting-started.md
       - overview.md    
+      - comparison.md
       - release-notes.md
   - navgroup:
       id: howto

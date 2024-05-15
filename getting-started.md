@@ -38,8 +38,8 @@ In minutes, you can:
 {: #create}
 {: step}
 
-1. In the IBM Cloud Catalog, search and select {{site.data.keyword.verify_full_notm}}. The service configuration screen opens.
-2. Configure your resource. Complete the following fields:
+In the IBM Cloud Catalog, search and select {{site.data.keyword.verify_full_notm}}. The service configuration screen opens.
+Configure your resource. Complete the following fields:
 
 |  Field | Description |
 |----------|-----------------------|
@@ -51,8 +51,8 @@ In minutes, you can:
 {: caption="Table 3. Responsibilities for identity and access management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
 
-4. Select the check box to confirm that you have read and agree to the Terms / License Agreements.	
-5. Click Create. The service account is created and you will receive an email notification about your subscription.
+Select the check box to confirm that you have read and agree to the Terms / License Agreements.	
+Click Create. The service account is created and you will receive an email notification about your subscription.
 
 ## Sign-in to your Service instance
 {: #sign-in}

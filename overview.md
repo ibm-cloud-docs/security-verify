@@ -15,7 +15,7 @@ keywords:
 # Overview
 {: #overview}
 
-{{site.data.keyword.verify_full}} is an Identity as a Service platform that provides access management and identity mangement capabilities to protect workforce and consumer identities. 
+{{site.data.keyword.verify_full}} is an Identity as a Service platform that provides access management and identity management capabilities to protect workforce and consumer identities. 
 
 The {{site.data.keyword.verify_full_notm}} provided through IBM Cloud offers IBM Cloud customers with the ability to deploy and use an enterprise grade IAM platform. The Lite offering plan of {{site.data.keyword.verify_full_notm}} allows IBM Cloud customers to protect up to 5 applications, manage 50,000 identities, and use single sign-on, multi factor authentication, and governance and lifecycle management. For expanding your usage of {{site.data.keyword.verify_full_notm}} to expand the applications supported, increase the identities managed, or add other subscriptions such as risk-based authentication, contact your IBM Cloud or IBM Security sales representative.
 

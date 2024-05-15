@@ -36,7 +36,7 @@ In minutes, you can:
 
 ## Create a service instance
 {: #create}
-{: step}
+<!--{: step}-->
 
 1. In the IBM Cloud Catalog, search and select {{site.data.keyword.verify_full_notm}}. The service configuration screen opens.
 2. Configure your resource. Complete the following fields:

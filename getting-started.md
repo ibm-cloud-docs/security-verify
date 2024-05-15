@@ -48,7 +48,7 @@ In minutes, you can:
 |Access Management Tag| Access management tags are metadata that are added to resources to help organize access control relationships. They create flexible and easy to administer resource groupings. When you use tags to control access to your resources, your team's projects can grow without requiring updates to IAM policies. See https://cloud.ibm.com/docs/account?topic=account-access-tags-tutorial. |
 |Hostname| This will the name assigned to your tenant. It must be a unique DNS hostname. Choose a hostname that represents your organization for easy access.|
 {: row-headers}
-{: caption="Table 3. Responsibilites for identity and access management" caption-side="bottom"}
+{: caption="Table 3. Responsibilities for identity and access management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
 
 4. Select the check box to confirm that you have read and agree to the Terms / License Agreements.	

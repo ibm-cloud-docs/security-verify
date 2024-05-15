@@ -26,10 +26,6 @@ Use these release notes to learn about the latest updates to {{site.data.keyword
 ## May 2024
 {: #subcollection-may2024}
 
-### 15 May 2024
-{: #subcollection-may152024}
-{: release-note}
-
 Introducing {{site.data.keyword.verify_full_notm}}.
 
 {{site.data.keyword.verify_full_notm}} provides Single Sign-On (SSO), multi-factor authentication (MFA), identity governance, and identity lifecycle controls for internal (workforce) and external (consumer) user types. For more information, see https://www.ibm.com/products/verify-saas{: external} 

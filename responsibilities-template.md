@@ -27,7 +27,7 @@ Incident and operations management includes tasks such as monitoring, event mana
 
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
 |----------|-----------------------|--------|
-|Monitoring| {{site.data.keyword.verify_full_notm}} is responsible for hosting monitoring and health services.  | The Client is responsible for revising the [IBM Security status page](https://statuspage.ibmcloudsecurity.com/#){: external} to see where they may be affected. |
+|Monitoring| {{site.data.keyword.verify_full_notm}} is responsible for hosting monitoring and health services.  | The Client is responsible for visiting the [IBM Security status page](https://statuspage.ibmcloudsecurity.com/#){: external} to see where they may be affected. |
 |High Availability| {{site.data.keyword.verify_full_notm}} is responsible for deploying the service across availability zones and multi data centers. {{site.data.keyword.verify_short}} provides replication, fail-over features, and infrastructure maintenance or updates. | The Client is responsible for designing application logic to connect to communicating with the service, for example, retry logins, create users, and more that may be caused by temporary failures. |
 {: row-headers}
 {: caption="Table 1. Responsibilities for incident and operations" caption-side="bottom"}

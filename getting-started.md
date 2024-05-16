@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-05-14"
+lastupdated: "2024-05-15"
 
 subcollection: security-verify
 
@@ -44,9 +44,9 @@ In minutes, you can:
    |  Field | Description |
    |----------|-----------------------|
    |Service name| Give your service instance a name, or use the preset name. |
-   |Tags| This is optional. Use tags to organize, track usage costs, and even manage access to your    resources and service IDs. You can tag related resources and view them throughout your account by    filtering by tags from your resource list. See [Working with tags](docs/account?topic=account-tag).|
-   |Access Management Tag| Access management tags are metadata that are added to resources to help organize    access control relationships. They create flexible and easy to administer resource groupings. When you    use tags to control access to your resources, your team's projects can grow without requiring updates to    IAM policies. See [Controlling access to resources by using tags](docs/account?   topic=account-access-tags-tutorial).|
-   |Hostname| This will the name assigned to your tenant. It must be a unique DNS hostname. Choose a    hostname that represents your organization for ease of access.|
+   |Tags| This is optional. Use tags to organize, track usage costs, and even manage access to your resources and service IDs. You can tag related resources and view them throughout your account by    filtering by tags from your resource list.|
+   |Access Management Tag| Access management tags are metadata that are added to resources to help organize access control relationships. They create flexible and easy to administer resource groupings. When you use tags to control access to your resources, your team's projects can grow without requiring updates to IAM policies. |
+   |Hostname| This will the name assigned to your tenant. It must be a unique DNS hostname. Choose a hostname that represents your organization for ease of access.|
    {: row-headers}
    {: caption="Table 1. Responsibilities for identity and access management" caption-side="bottom"}
 

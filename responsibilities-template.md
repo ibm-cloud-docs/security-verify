@@ -15,20 +15,13 @@ keywords:
 # Understanding your responsibilities when using {{site.data.keyword.verify_full_notm}}
 {: #responsibilities}
 
-<!-- The title of your H1 should be Understanding your responsibilities with using _service-name_, where _service-name_ is the non-trademarked short version keyref. -->
-
 Learn about the management responsibilities and terms and conditions that you have when you use {{site.data.keyword.verify_full}}. For a high-level view of the service types in {{site.data.keyword.cloud}} and the breakdown of responsibilities between the customer and {{site.data.keyword.verify_full_notm}} for each type, see [Shared responsibilities for {{site.data.keyword.cloud_notm}} offerings](/docs/overview?topic=overview-shared-responsibilities).
 {: shortdesc}
 
 Review the following sections for the specific responsibilities for you and for {{site.data.keyword.verify_full_notm}} when you use {{site.data.keyword.verify_full_notm}}. For the overall terms of use, see [{{site.data.keyword.cloud}} Terms and Notices](/docs/overview/topic=overview-terms).
-<!-- If you plan to list resource (see resources listed in each table in the platform shared responsibilities topic linked above) responsibility instead of individual tasks, you do not need to include rows for Hypervisor, Physical Servers and memory, Physical storage, Physical network and devices, and Facilities and data centers unless you need to indicate a 'Shared' or 'Customer' responsibility for one of the areas within those Resources. -->
-
   
 ## Incident and operations management
 {: #incident-and-ops}
-
-<!-- Use this section description exactly as worded. -->
-<!-- If there is a task that is the customer's responsibility and you have associated docs for how a customer completes that task, link to it from the Your responsibilities column. -->
 
 Incident and operations management includes tasks such as monitoring, event management, high availability, problem determination, recovery, and full state backup and recovery.
 
@@ -44,9 +37,6 @@ Incident and operations management includes tasks such as monitoring, event mana
 ## Change management
 {: #change-management}
 
-<!-- Use this section description exactly as worded. -->
-<!-- If there is a task that is the customer's responsibility and you have associated docs for how a customer completes that task, link to it from the Your responsibilities column. -->
-
 Change management includes tasks such as deployment, configuration, upgrades, patching, configuration changes, and deletion.
 
 |  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
@@ -57,26 +47,8 @@ Change management includes tasks such as deployment, configuration, upgrades, pa
 {: caption="Table 2. Responsibilities for change management" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
 
-
-<!-- ## Identity and access management
-{: #iam-responsibilities}
-
-Identity and access management includes tasks such as authentication, authorization, access control policies, and approving, granting, and revoking access.
-
-|  | {{site.data.keyword.verify_full_notm}} Responsibilities | Your Responsibilities |
-|----------|-----------------------|--------|
-|Task 1| {{site.data.keyword.verify_full_notm}} responsibility description  | Customer responsibility description |
-|Task 2| {{site.data.keyword.verify_full_notm}} responsibility description  | Customer responsibility description |
-|Task 3| {{site.data.keyword.verify_full_notm}} responsibility description  | Customer responsibility description |
-{: row-headers}
-{: caption="Table 3. Responsibilities for identity and access management" caption-side="bottom"}
-{: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.verify_full_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."} -->
-
 ## Security and regulation compliance
 {: #security-compliance}
-
-<!-- Use this section description exactly as worded. -->
-<!-- If there is a task that is the customer's responsibility and you have associated docs for how a customer completes that task, link to it from the Your responsibilities column. -->
 
 Security and regulation compliance includes tasks such as security controls implementation and compliance certification.
 
@@ -91,9 +63,6 @@ Security and regulation compliance includes tasks such as security controls impl
 
 ## Disaster recovery
 {: #disaster-recovery}
-
-<!-- Use this section description exactly as worded. -->
-<!-- If there is a task that is the customer's responsibility and you have associated docs for how a customer completes that task, link to it from the Your responsibilities column. -->
 
 Disaster recovery includes tasks such as providing dependencies on disaster recovery sites, provision disaster recovery environments, data and configuration backup, replicating data and configuration to the disaster recovery environment, and failover on disaster events.
 

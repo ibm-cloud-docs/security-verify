@@ -2,11 +2,12 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-05-14"
-
-subcollection: security-verify
+lastupdated: "2024-05-15"
 
 keywords: 
+
+subcollection: security-verify
+content-type: release-note
 
 ---
 
@@ -24,9 +25,11 @@ Use these release notes to learn about the latest updates to {{site.data.keyword
 
 
 ## May 2024 - available in IBM Cloud catalog
-{: #subcollection-20may2024}
+{: #security-verify-may2024}
 {: release-note}
 
-{{site.data.keyword.verify_full_notm}} provides Single Sign-On (SSO), multi-factor authentication (MFA), identity governance, and identity lifecycle controls for internal (workforce) and external (consumer) user types. For more information, see [IBM Security Verify (SaaS)](https://www.ibm.com/products/verify-saas){: external}. 
+Introducing {{site.data.keyword.verify_full_notm}}
+:   {{site.data.keyword.verify_full_notm}} provides Single Sign-On (SSO), multi-factor authentication (MFA), identity governance, and identity lifecycle controls for internal (workforce) and external (consumer) user types. For more information, see [IBM Security Verify (SaaS)](https://www.ibm.com/products/verify-saas){: external}. 
 
-{{site.data.keyword.verify_full_notm}} continuously delivers new capabilities every few weeks. To stay updated on the latest features, you can visit the {{site.data.keyword.verify_full_notm}} [What's new](https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new){: external} documentation.
+Features
+:   {{site.data.keyword.verify_full_notm}} continuously delivers new capabilities every few weeks. To stay updated on the latest features, you can visit the {{site.data.keyword.verify_full_notm}} [What's new](https://www.ibm.com/docs/en/security-verify?topic=overview-whats-new){: external} documentation.

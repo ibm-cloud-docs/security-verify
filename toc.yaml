@@ -1,0 +1,63 @@
+#  Name your file `toc.yaml`
+#  Make sure you include all nav file coding requirements, as defined in https://test.cloud.ibm.com/docs/writing?topic=writing-code-nav
+#  Anything with a fully qualified URL with `http` or `https` will get an external link icon added to the nav entry
+---
+toc:
+  properties:
+    subcollection: security-verify
+    service-name: security-verify #If your subcollection is not for a service, don't include this property.
+    category: security
+    audience: service
+    href: /docs/security-verify
+#    console-page: /relative/console/path
+    product-page: https://www.ibm.com/products/verify-saas
+    path: security-verify
+    label: IBM Security Verify
+
+#  List your getting started tutorial (getting-started.md) as the first item in the Get started nav group. See https://test.cloud.ibm.com/docs/writing?topic=writing-navigation-design for more details on the toc design.
+  entries:
+  - navgroup:
+      id: learn 
+      topics:
+      - getting-started.md
+      - overview.md    
+      - comparison.md
+      - release-notes.md
+  - navgroup:
+      id: howto
+      topics:
+      - tenant-management.md
+  - navgroup:
+      id: reference
+      topics:
+      - responsibilities-template.md
+      links:
+      - link:
+          label: API Documentation
+          href: https://docs.verify.ibm.com/verify/page/api-documentation
+      - link:
+          label: Developer Documentation
+          href: https://docs.verify.ibm.com/verify/docs/use-cases
+      - link:
+          label: IBM Security Verify Documentation
+          href: https://www.ibm.com/docs/en/security-verify
+      - link:
+          label: Status Page
+          href: https://statuspage.ibmcloudsecurity.com/# 
+  - navgroup:
+      id: help
+      topics:
+      - get-help.md
+      links:
+      - link:
+          label: IBM Security Verify Support
+          href: https://www.ibm.com/mysupport/s/topic/0TO500000002XbyGAE/security-verify?language=en_US
+      - link:
+          label: Open a Support Case
+          href: https://www.ibm.com/mysupport/s/createrecord/NewCase?productId=01t50000004Y4A8AAK&language=en_US
+      - link:
+          label: Request an Enhancement
+          href: https://ideas.ibm.com/new-idea?product=6431760981739898092                 
+      - link:
+          label: IBM Security Verify Community Forum
+          href: https://community.ibm.com/community/user/security/communities/community-home/digestviewer?communitykey=e7c36119-46d7-42f2-97a9-b44f0cc89c6d&tab=digestviewer

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-05-15"
+lastupdated: "2024-05-17"
 
 subcollection: security-verify
 
@@ -18,7 +18,7 @@ keywords:
 Learn about the management responsibilities and terms and conditions that you have when you use {{site.data.keyword.verify_full}}. For a high-level view of the service types in {{site.data.keyword.cloud}} and the breakdown of responsibilities between the customer and {{site.data.keyword.verify_full_notm}} for each type, see [Shared responsibilities for {{site.data.keyword.cloud_notm}} offerings](/docs/overview?topic=overview-shared-responsibilities).
 {: shortdesc}
 
-Review the following sections for the specific responsibilities for you and for {{site.data.keyword.verify_full_notm}} when you use {{site.data.keyword.verify_full_notm}}. For the overall terms of use, see [{{site.data.keyword.cloud}} Terms and Notices](/docs/overview/topic=overview-terms).
+Review the following sections for the specific responsibilities for you and for {{site.data.keyword.verify_full_notm}} when you use {{site.data.keyword.verify_full_notm}}. For the overall terms of use, see [{{site.data.keyword.cloud}} Terms and Notices](/docs/overview?topic=overview-terms){: external}.
   
 ## Incident and operations management
 {: #incident-and-ops}
